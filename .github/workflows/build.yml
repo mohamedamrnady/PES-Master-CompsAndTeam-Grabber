@@ -5,6 +5,7 @@ on:
 
 jobs:
   Release:
+    permissions: write-all
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@master
@@ -34,11 +35,10 @@ jobs:
       - name: Delete Extra Coaches
         run: python3 delete_unused_coaches.py
       - name: Commit Changes
-        run: |
-          git config --global user.name 'Nady (Action)'
-          git config --global user.email 'mohamed.amr.nes@gmail.com'
-          git commit -am "New Update"
-          git push
+        uses: stefanzweifel/git-auto-commit-action@master
+        with:
+          skip_checkout: true
+          commit_message: New Coaches
       - name: Create Archive
         run: python3 create_archive.py
       - name: Set ENV
