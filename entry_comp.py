@@ -31,6 +31,12 @@ def cup_id_scrapper(league_id):
     # NETHERLANDS
     elif league_id == 13:
         return 19
+    # PEU
+    elif league_id == 39:
+        return 42
+    # PLA
+    elif league_id == 40:
+        return 43
     # PAS
     elif league_id == 41:
         return 44
@@ -43,9 +49,6 @@ def cup_id_scrapper(league_id):
     # PORTUGAL
     elif league_id == 14:
         return 20
-    # PLA
-    elif league_id == 40:
-        return 43
     # SWITZERLAND
     elif league_id == 117:
         return 118
