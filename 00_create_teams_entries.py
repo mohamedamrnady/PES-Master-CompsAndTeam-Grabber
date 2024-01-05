@@ -62,11 +62,35 @@ for league_count, league_id22 in enumerate(league_info_scrapper(game_page, "id")
                 )
             entryids_counter += 1
     # Get every team data in league and append to "LIST"
-    for team_url in teams_urls_scrapper(get_page(leagues_urls[league_count])):
+    teams_urls = teams_urls_scrapper(get_page(leagues_urls[league_count]))
+    if int(league_id22) == 0:
+        asian_national = True
+        teams_urls.extend(
+            [
+                "https://www.pesmaster.com/kyrgyzstan/efootball-2022/team/71287/",
+                "https://www.pesmaster.com/tajikistan/efootball-2022/team/71297/",
+                "https://www.pesmaster.com/syria/efootball-2022/team/66565/",
+                "https://www.pesmaster.com/palestine/efootball-2022/team/71293/",
+                "https://www.pesmaster.com/bahrain/efootball-2022/team/66538/",
+                "https://www.pesmaster.com/hong-kong/efootball-2022/team/71284/",
+                "https://www.pesmaster.com/vietnam/efootball-2022/team/71299/",
+            ]
+        )  # that should have Asian Cup teams urls
+    else:
+        asian_national = False
+    for team_url in teams_urls:
         print()
         team_page = get_page(team_url)
         team_id = checkACLID(str(team_url.split("/team/")[1].split("/")[0]))
-        team_scrapper(team_page, team_id, leagues_merge)
+        team_page = team_scrapper(
+            team_page,
+            team_id,
+            leagues_merge,
+            team_url,
+            int(league_id22),
+            "False",
+            asian_national,
+        )
         coach_id = str(coach_scrapper(team_page))
         formation_scrapper(team_page, team_id, coach_id)
 
