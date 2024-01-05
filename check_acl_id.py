@@ -1,6 +1,6 @@
 def checkACLID(teamID: str):
     hexValue = hex(int(teamID))[2:]
-    if len(hexValue) > 3:
+    if len(hexValue) > 4:
         if hexValue.startswith("4") or hexValue.startswith(
             "5"
         ):  # from ACL eFootball to ACL PES
