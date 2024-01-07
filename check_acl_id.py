@@ -1,11 +1,7 @@
 def checkACLID(teamID: str):
-    hexValue = hex(int(teamID))[2:]
-    if len(hexValue) > 3:
-        if hexValue.startswith("4"):
-            return str(int(f"0x10{hexValue[1:]}", base=16))
-        elif hexValue.startswith("5"):
-            return str(int(f"0x11{hexValue[1:]}", base=16))
-        else:
-            return teamID
+    if int(teamID) > 16384 and int(teamID) <= 65536:  # from ACL eFootball to ACL PES
+        return str(int(teamID) + 65536 - 16384)  # + PES 21 ACL OFFSET - eF ACL OFFSET
+    elif int(teamID) > 65536:  # from Asian Cup to Real ID (65536 is a coincidence)
+        return str(int(teamID) - 65536)
     else:
         return teamID

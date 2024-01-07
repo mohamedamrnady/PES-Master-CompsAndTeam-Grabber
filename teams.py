@@ -1,6 +1,7 @@
 from urllib import response
 import pandas as pd
 from bs4 import BeautifulSoup as bs
+from get_page import get_page
 from unidecode import unidecode
 
 
@@ -88,7 +89,15 @@ def teams_urls_scrapper(r: response):
     return urls
 
 
-def team_scrapper(r: response, team_id: str, leagues_merge: pd.DataFrame):
+def team_scrapper(
+    r: response,
+    team_id: str,
+    leagues_merge: pd.DataFrame,
+    team_url: str,
+    league_id: int,
+    national_bool: str,
+    asian_national: bool,
+):
     global teams_df
     global revise_teams_df
     country_index = ""
@@ -104,12 +113,12 @@ def team_scrapper(r: response, team_id: str, leagues_merge: pd.DataFrame):
         print("Created Team")
         impbool = False
     league_name = soup.find("a", attrs={"class": "namelink"}).text.strip()
-    league_id = int(
-        soup.find("a", attrs={"class": "namelink"})
-        .attrs["href"]
-        .split("/league/")[1]
-        .replace("/", "")
-    )
+    # league_id = int(
+    #     soup.find("a", attrs={"class": "namelink"})
+    #     .attrs["href"]
+    #     .split("/league/")[1]
+    #     .replace("/", "")
+    # )
 
     try:
         country_index = leagues_names.index(league_id)
@@ -127,10 +136,23 @@ def team_scrapper(r: response, team_id: str, leagues_merge: pd.DataFrame):
         .split("/coach/")[1]
         .split("/")[0]
     )
-    if league_name.find("National") == -1:
-        national_bool = "False"
-    if league_name.find("National") != -1:
+    if "National" in league_name:
         national_bool = "True"
+        if asian_national:  # Grab AFC Asian Cup Team if found
+            new_team_id = int(team_id) + 65536
+            new_team_url = team_url.replace(team_id, str(new_team_id))
+            new_r = get_page(new_team_url)
+            if new_r.status_code == 200:
+                print("ACL FOUND")
+                return team_scrapper(
+                    new_r,
+                    team_id,
+                    leagues_merge,
+                    team_url,
+                    league_id,
+                    national_bool,
+                    asian_national,
+                )
     NameEnglish = team_name
     NameUSEnglish = team_name
     NonPlayableLeague = "0"
@@ -449,6 +471,7 @@ def team_scrapper(r: response, team_id: str, leagues_merge: pd.DataFrame):
             [revise_teams_df, pd.DataFrame(dict, index=[0])], ignore_index=True
         )
     print("Team : " + team_name)
+    return r
 
 
 def createReviseTeams():
