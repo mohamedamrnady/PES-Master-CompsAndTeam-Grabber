@@ -57,6 +57,10 @@ teamAbbrev = [
     " RWZ",
     " BG",
     " GB",
+    " A",
+    " RB",
+    " G",
+    " NN",
 ]
 
 
@@ -150,8 +154,8 @@ def team_scrapper(
                     leagues_merge,
                     team_url,
                     league_id,
-                    national_bool,
-                    asian_national,
+                    "True",
+                    False,
                 )
     NameEnglish = team_name
     NameUSEnglish = team_name
