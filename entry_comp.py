@@ -58,6 +58,9 @@ def cup_id_scrapper(league_id):
     # THAILAND
     elif league_id == 139:
         return 140
+    # CHINA
+    elif league_id == 125:
+        return 126
     else:
         return 0
 
