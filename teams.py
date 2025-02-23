@@ -143,7 +143,7 @@ def team_scrapper(
     if "National" in league_name:
         national_bool = "True"
         if asian_national:  # Grab AFC Asian Cup Team if found
-            new_team_id = int(team_id) + 65536
+            new_team_id = int(team_id) + 49152
             new_team_url = team_url.replace(team_id, str(new_team_id))
             new_r = get_page(new_team_url)
             if new_r.status_code == 200:
@@ -154,7 +154,7 @@ def team_scrapper(
                     leagues_merge,
                     team_url,
                     league_id,
-                    "True",
+                    national_bool,
                     False,
                 )
     NameEnglish = team_name

@@ -104,16 +104,19 @@ def league_scrapper(r: response):
             "div", attrs={"class": "team-block"}
         )
     ):
+        team_id = checkACLID(
+            str(team_name_div.find("a").get_attribute_list("href"))
+            .split("team/")[1]
+            .split("/")[0]
+        )
+        if team_id == 0:
+            continue
         csvlines.append(
             {
                 # Id & IdCompetition are set in main script
                 "Id": "",
                 "IdCompetition": "",
-                "IdTeam": checkACLID(
-                    str(team_name_div.find("a").get_attribute_list("href"))
-                    .split("team/")[1]
-                    .split("/")[0]
-                ),
+                "IdTeam": team_id,
                 "Position": str(position),
                 "Value1": "0",
                 "Value2": "0",
