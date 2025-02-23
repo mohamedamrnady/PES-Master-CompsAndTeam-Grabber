@@ -400,7 +400,7 @@ Id;Name;Country;JapName;Adaptability;Photo;Photo_file;EditName;EditCountry;EditP
 102639;F. Modesto;215;フランチェスコ モデスト;80;0;;False;False;False;False;0;0;0;-1;-1;-1
 102640;M. Gjurovski;221;マリオ ジュロヴスキ;100;0;;False;False;False;False;0;0;0;-1;-1;-1
 102641;M. Boris;210;ミヒャエル ボリス;76;0;;False;False;False;False;0;0;0;-1;-1;-1
-102646;Ö. Erdoğan;190;エメル エルドーアン;86;0;;False;False;False;False;0;0;0;-1;-1;-1
+102646;Ömer Erdoğan;190;エメル エルドーアン;86;0;;False;False;False;False;0;0;0;-1;-1;-1
 102648;Akio Kogiku;13;小菊 昭雄;84;0;;False;False;False;False;0;0;0;-1;-1;-1
 102649;Fernando Sales;236;フェルナンド サレス;71;0;;False;False;False;False;0;0;0;-1;-1;-1
 102651;D. Flores;144;ディエゴ フロレス;100;0;;False;False;False;False;0;0;0;-1;-1;-1
@@ -490,7 +490,7 @@ Id;Name;Country;JapName;Adaptability;Photo;Photo_file;EditName;EditCountry;EditP
 102856;C. Casey;135;コナー ケイシー;77;0;;False;False;False;False;0;0;0;-1;-1;-1
 102858;Michele Mignani;215;ミケーレ ミニャーニ;80;0;;False;False;False;False;0;0;0;-1;-1;-1
 102864;M. Dalgıç;190;メフメト ダルグチュ;66;0;;False;False;False;False;0;0;0;-1;-1;-1
-102867;R. Uçar;190;レジェプ ウチャル;76;0;;False;False;False;False;0;0;0;-1;-1;-1
+102867;Recep Uçar;190;レジェプ ウチャル;76;0;;False;False;False;False;0;0;0;-1;-1;-1
 102869;F.Alexandersson;213;フレイル アレクサンダーソン;73;0;;False;False;False;False;0;0;0;-1;-1;-1
 102873;M. Altındağ;190;ムスタファ アルトゥンダー;67;0;;False;False;False;False;0;0;0;-1;-1;-1
 102901;M. Fuentes;124;ミゲル フエンテス;70;0;;False;False;False;False;0;0;0;-1;-1;-1
@@ -534,10 +534,10 @@ Id;Name;Country;JapName;Adaptability;Photo;Photo_file;EditName;EditCountry;EditP
 103013;F. Farioli;215;フランチェスコ ファリオーリ;85;0;;False;False;False;False;0;0;0;-1;-1;-1
 103014;Sami Uğurlu;190;サミ ウーウルル;88;0;;False;False;False;False;0;0;0;-1;-1;-1
 103015;Xavi Moro;236;ハビ モロ;60;0;;False;False;False;False;0;0;0;-1;-1;-1
-103016;D. Iwamasa;13;岩政 大樹;81;0;;False;False;False;False;0;0;0;-1;-1;-1
+103016;Daiki Iwamasa;13;岩政 大樹;81;0;;False;False;False;False;0;0;0;-1;-1;-1
 103017;O. Korkmaz;190;オスマン コルクマズ;81;0;;False;False;False;False;0;0;0;-1;-1;-1
 103018;S. Cooper;204;スコット クーパー;100;0;;False;False;False;False;0;0;0;-1;-1;-1
-103020;L. Greco;215;レアンドロ グレコ;90;0;;False;False;False;False;0;0;0;-1;-1;-1
+103020;Leandro Greco;215;レアンドロ グレコ;90;0;;False;False;False;False;0;0;0;-1;-1;-1
 103021;A. Balbo;144;アベル バルボ;77;0;;False;False;False;False;0;0;0;-1;-1;-1
 103022;Ş. Can;190;シェノル ジャン;74;0;;False;False;False;False;0;0;0;-1;-1;-1
 103027;Albert Capellas;236;アルベルト カペジャス;102;0;;False;False;False;False;0;0;0;-1;-1;-1
@@ -734,7 +734,7 @@ Id;Name;Country;JapName;Adaptability;Photo;Photo_file;EditName;EditCountry;EditP
 8389045;Massimiliano Allegri;215;エルマンノ テバルディ;115;0;;False;False;False;False;0;0;0;-1;-1;-1
 8389048;Marinus Dijkhuizen;224;イワン ボスマン;100;0;;False;False;False;False;0;0;0;-1;-1;-1
 8389062;Alfred Schreuder;224;ハルム ファン デル フェン;106;0;;False;False;False;False;0;0;0;-1;-1;-1
-8389077;S. Grundvig;226;ステファン グロントヴィ;91;0;;False;False;False;False;0;0;0;-1;-1;-1
+8389077;Steven Grundvig;226;ステファン グロントヴィ;91;0;;False;False;False;False;0;0;0;-1;-1;-1
 8389079;Vanderlei Luxemburgo da Silva;146;ベント マネ;110;0;;False;False;False;False;0;0;0;-1;-1;-1
 8389080;Claudio Ranieri;215;サムエレ パヴァン;94;0;;False;False;False;False;0;0;0;-1;-1;-1
 8389089;Roberto Néstor Sensini;144;シャビィ ベーリョ;64;0;;False;False;False;False;0;0;0;-1;-1;-1
@@ -805,7 +805,7 @@ Id;Name;Country;JapName;Adaptability;Photo;Photo_file;EditName;EditCountry;EditP
 8390857;Joseba Iraizoz;236;ホセバ イライソス;103;0;;False;False;False;False;0;0;0;-1;-1;-1
 8390859;Iban Gordillo;236;イバン ゴルディーリョ;102;0;;False;False;False;False;0;0;0;-1;-1;-1
 8390891;A. Heinze;238;アルント ハインツェ;51;0;;False;False;False;False;0;0;0;-1;-1;-1
-8390900;A. Hatton;135;エーリアル ハットン;65;0;;False;False;False;False;0;0;0;-1;-1;-1
+8390900;Ariel Hatton;135;エーリアル ハットン;65;0;;False;False;False;False;0;0;0;-1;-1;-1
 8390903;Helge Armandoz;152;エルゲ アルマンドス;75;0;;False;False;False;False;0;0;0;-1;-1;-1
 8390952;K. Toshack;241;キングズリイ トシャック;63;0;;False;False;False;False;0;0;0;-1;-1;-1
 8390964;A. Pekkan;190;アルプ ペカン;56;0;;False;False;False;False;0;0;0;-1;-1;-1
@@ -1091,20 +1091,20 @@ Id;Name;Country;JapName;Adaptability;Photo;Photo_file;EditName;EditCountry;EditP
 8491079;Emre Belözoğlu;190;デヴリム アテシュ;96;0;;False;False;False;False;0;0;0;-1;-1;-1
 8491086;D. Sinclair;208;ドナシファン シンクレア;99;0;;False;False;False;False;0;0;0;-1;-1;-1
 8491087;M. Hoon;135;メルヴィン フーン;94;0;;False;False;False;False;0;0;0;-1;-1;-1
-8491088;W. Doherty;135;ウィルフレッド ドハーティ;100;0;;False;False;False;False;0;0;0;-1;-1;-1
-8491089;H. Whittock;204;ヒラリー ウィトック;84;0;;False;False;False;False;0;0;0;-1;-1;-1
+8491088;Wilfred Doherty;135;ウィルフレッド ドハーティ;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+8491089;Hilary Whittock;204;ヒラリー ウィトック;84;0;;False;False;False;False;0;0;0;-1;-1;-1
 8491093;A. Tye;204;アンディ タイ;96;0;;False;False;False;False;0;0;0;-1;-1;-1
 8491094;Oscar Reveiro;148;オスカル レヴェイロ;107;0;;False;False;False;False;0;0;0;-1;-1;-1
-8491095;H. Maudslay;135;ハム モーズレイ;94;0;;False;False;False;False;0;0;0;-1;-1;-1
+8491095;Ham Maudslay;135;ハム モーズレイ;94;0;;False;False;False;False;0;0;0;-1;-1;-1
 8491096;F. McColgan;135;ファビウス マッコルガン;108;0;;False;False;False;False;0;0;0;-1;-1;-1
 8491098;Asier Padilla;153;アシエル パディーリャ;90;0;;False;False;False;False;0;0;0;-1;-1;-1
 8491099;M. Urey;204;モンティ ユーリー;84;0;;False;False;False;False;0;0;0;-1;-1;-1
-8491100;G. Acton;135;ガイア アクトン;94;0;;False;False;False;False;0;0;0;-1;-1;-1
+8491100;Guire Acton;135;ガイア アクトン;94;0;;False;False;False;False;0;0;0;-1;-1;-1
 8491102;F. Kenney;135;フレイザー ケニー;89;0;;False;False;False;False;0;0;0;-1;-1;-1
-8491103;Q. Gilbert;135;クインシー ギルバート;90;0;;False;False;False;False;0;0;0;-1;-1;-1
+8491103;Quincey Gilbert;135;クインシー ギルバート;90;0;;False;False;False;False;0;0;0;-1;-1;-1
 8491104;J. Lander;135;ジャッキー ランダー;85;0;;False;False;False;False;0;0;0;-1;-1;-1
 8491105;I. Edgecumbe;135;イスカリオット エッジカンブ;96;0;;False;False;False;False;0;0;0;-1;-1;-1
-8491106;T. Byers;135;ティフ バイヤーズ;91;0;;False;False;False;False;0;0;0;-1;-1;-1
+8491106;Tiff Byers;135;ティフ バイヤーズ;91;0;;False;False;False;False;0;0;0;-1;-1;-1
 8491112;Ryan Glen Mason;204;クリフ アグエイアス;91;0;;False;False;False;False;0;0;0;-1;-1;-1
 8491114;César Bravo;147;ピオ アビアン;79;0;;False;False;False;False;0;0;0;-1;-1;-1
 8491140;Newton Maia;146;ネウトン マイア;100;0;;False;False;False;False;0;0;0;-1;-1;-1
@@ -1121,9 +1121,9 @@ Id;Name;Country;JapName;Adaptability;Photo;Photo_file;EditName;EditCountry;EditP
 8491210;Abelardo Suela;236;アベラルド スエラ;84;0;;False;False;False;False;0;0;0;-1;-1;-1
 8491211;H. Lawes;232;ヒック ローズ;70;0;;False;False;False;False;0;0;0;-1;-1;-1
 8491212;Z. Yalçın;190;ゼヘブ ヤルチュン;84;0;;False;False;False;False;0;0;0;-1;-1;-1
-8491215;S. Addison;135;スティーヴ アディソン;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+8491215;Steve Addison;135;スティーヴ アディソン;100;0;;False;False;False;False;0;0;0;-1;-1;-1
 8491216;Jaime Falla;236;ハイメ ファリャ;74;0;;False;False;False;False;0;0;0;-1;-1;-1
-8491220;G. Smits;224;ヘリト ヤン スミツ;80;0;;False;False;False;False;0;0;0;-1;-1;-1
+8491220;Gerrit J. Smits;224;ヘリト ヤン スミツ;80;0;;False;False;False;False;0;0;0;-1;-1;-1
 8491221;Celedonio Triay;236;セレドニオ トリアイ;103;0;;False;False;False;False;0;0;0;-1;-1;-1
 8491236;Hugo Reston;146;ウーゴ ヘストン;69;0;;False;False;False;False;0;0;0;-1;-1;-1
 8491246;Alex Clavero;148;アレックス クラベーロ;70;0;;False;False;False;False;0;0;0;-1;-1;-1
@@ -1134,12 +1134,12 @@ Id;Name;Country;JapName;Adaptability;Photo;Photo_file;EditName;EditCountry;EditP
 8491258;G. Canuti;215;ジョルダーノ カヌーティ;79;0;;False;False;False;False;0;0;0;-1;-1;-1
 8491263;Oskar Homar;147;オスカル オマー;70;0;;False;False;False;False;0;0;0;-1;-1;-1
 8491272;C. Güneş;190;ジャンダン ギュネシュ;83;0;;False;False;False;False;0;0;0;-1;-1;-1
-8491276;T. Fry;135;セオドア フライ;84;0;;False;False;False;False;0;0;0;-1;-1;-1
+8491276;Theodore Fry;135;セオドア フライ;84;0;;False;False;False;False;0;0;0;-1;-1;-1
 8491280;S. Tailleferre;208;サミュエル タイユフェール;100;0;;False;False;False;False;0;0;0;-1;-1;-1
 8491281;L. Emanuel;122;ルシアン エマニュエル;81;0;;False;False;False;False;0;0;0;-1;-1;-1
 8491289;Vivar Laiseka;147;ビバル ライセカ;74;0;;False;False;False;False;0;0;0;-1;-1;-1
 8491293;M. Destanı;190;ミルザ デスタヌ;72;0;;False;False;False;False;0;0;0;-1;-1;-1
-8491306;M. Alling;135;マドック アリング;76;0;;False;False;False;False;0;0;0;-1;-1;-1
+8491306;Madoc Alling;135;マドック アリング;76;0;;False;False;False;False;0;0;0;-1;-1;-1
 8491313;Gaizka Lotina;152;ガイスカ ロティーナ;91;0;;False;False;False;False;0;0;0;-1;-1;-1
 8491336;Tony Sampaio;146;トニ サンパイオ;100;0;;False;False;False;False;0;0;0;-1;-1;-1
 8491337;Alfredo Cabañas;147;アルフレード カバーニャス;75;0;;False;False;False;False;0;0;0;-1;-1;-1
@@ -1152,7 +1152,7 @@ Id;Name;Country;JapName;Adaptability;Photo;Photo_file;EditName;EditCountry;EditP
 8491375;J. Veenstra;224;ユリアーン フェーンストラ;100;0;;False;False;False;False;0;0;0;-1;-1;-1
 8491376;Nakor Vasco;151;ナコル バスコ;80;0;;False;False;False;False;0;0;0;-1;-1;-1
 8491381;Javier Notario;236;ハビエル ノタリオ;91;0;;False;False;False;False;0;0;0;-1;-1;-1
-8491382;I. Bassis;215;イヴァノエ バッシス;79;0;;False;False;False;False;0;0;0;-1;-1;-1
+8491382;Ivanoe Bassis;215;イヴァノエ バッシス;79;0;;False;False;False;False;0;0;0;-1;-1;-1
 8491386;Jover Canabal;236;ホベル カナバル;100;0;;False;False;False;False;0;0;0;-1;-1;-1
 8491387;J. Nutley;204;ジェローム ナトリー;100;0;;False;False;False;False;0;0;0;-1;-1;-1
 8491391;K. Schieppati;215;クルト スキエパッティ;100;0;;False;False;False;False;0;0;0;-1;-1;-1
@@ -1187,14 +1187,14 @@ Id;Name;Country;JapName;Adaptability;Photo;Photo_file;EditName;EditCountry;EditP
 8491585;E. Remzi;190;エロル レムジ;83;0;;False;False;False;False;0;0;0;-1;-1;-1
 8491586;P. Brahe;203;ペーダー ブラーエ;85;0;;False;False;False;False;0;0;0;-1;-1;-1
 8491588;J. Hester;204;ジェヒュー ヘスター;92;0;;False;False;False;False;0;0;0;-1;-1;-1
-8491593;S. Hermans;224;スメト ヘルマンス;95;0;;False;False;False;False;0;0;0;-1;-1;-1
-8491596;P. Flon;208;パトリス フロン;88;0;;False;False;False;False;0;0;0;-1;-1;-1
+8491593;Smedt Hermans;224;スメト ヘルマンス;95;0;;False;False;False;False;0;0;0;-1;-1;-1
+8491596;Patrice Flon;208;パトリス フロン;88;0;;False;False;False;False;0;0;0;-1;-1;-1
 8491597;Emiliano Blanco;148;エミリアーノ ブランコ;100;0;;False;False;False;False;0;0;0;-1;-1;-1
 8491601;Eduardo Napoli;144;エドゥアルド ナポリ;76;0;;False;False;False;False;0;0;0;-1;-1;-1
 8491602;Diego Bordas;148;ディエゴ ボルダス;100;0;;False;False;False;False;0;0;0;-1;-1;-1
 8491607;Lipatin Garbayo;236;リパティン ガルバジョ;103;0;;False;False;False;False;0;0;0;-1;-1;-1
 8491613;E. Candemir;190;エムレ ジャンデミル;104;0;;False;False;False;False;0;0;0;-1;-1;-1
-8491621;G. Maggio;215;ジャンマリア マッジオ;85;0;;False;False;False;False;0;0;0;-1;-1;-1
+8491621;Gian Maggio;215;ジャンマリア マッジオ;85;0;;False;False;False;False;0;0;0;-1;-1;-1
 8491622;E. Çiçek;190;エロル チチェク;88;0;;False;False;False;False;0;0;0;-1;-1;-1
 8491625;Y. Ergen;190;ヤクプ エルゲン;81;0;;False;False;False;False;0;0;0;-1;-1;-1
 8491627;J. Leclair;50;ジョエル ルクレール;72;0;;False;False;False;False;0;0;0;-1;-1;-1
@@ -1262,16 +1262,16 @@ Id;Name;Country;JapName;Adaptability;Photo;Photo_file;EditName;EditCountry;EditP
 12685087;Thamer Enad Al-Enazi;17;イスマイル ファレス;71;0;;False;False;False;False;0;0;0;-1;-1;-1
 12685088;Daniel John 'Danny' Hay;166;キア エニス;74;0;;False;False;False;False;0;0;0;-1;-1;-1
 12685491;Moin Bahri;19;モイン バフリ;69;0;;False;False;False;False;0;0;0;-1;-1;-1
-12685569;Z. Stibor;202;ズジェネク スチボル;65;0;;False;False;False;False;0;0;0;-1;-1;-1
+12685569;Zdenek Stibor;202;ズジェネク スチボル;65;0;;False;False;False;False;0;0;0;-1;-1;-1
 12685586;Naif Saif Aldin;12;ナイフ サイフ アルディン;80;0;;False;False;False;False;0;0;0;-1;-1;-1
 12685591;B. Plank;210;ボニファティウス プランク;93;0;;False;False;False;False;0;0;0;-1;-1;-1
 12685792;P. Angiboust;65;ピエロ アンジブースト;89;0;;False;False;False;False;0;0;0;-1;-1;-1
 12685793;F. Jurisić;200;ファデイカ ユリシッチ;87;0;;False;False;False;False;0;0;0;-1;-1;-1
 12685797;F. West;122;フィン ウェスト;78;0;;False;False;False;False;0;0;0;-1;-1;-1
-12685798;E. Serwotka;64;エリック サーワトカ;82;0;;False;False;False;False;0;0;0;-1;-1;-1
+12685798;Elick Serwotka;64;エリック サーワトカ;82;0;;False;False;False;False;0;0;0;-1;-1;-1
 12685799;W. Salomon;48;ウィリアム サロモン;70;0;;False;False;False;False;0;0;0;-1;-1;-1
 12685801;O. Barrault;50;オクタヴィアン バロー;82;0;;False;False;False;False;0;0;0;-1;-1;-1
-12685804;H. Roeg;80;ヒースコート ローグ;76;0;;False;False;False;False;0;0;0;-1;-1;-1
+12685804;Heathcote Roeg;80;ヒースコート ローグ;76;0;;False;False;False;False;0;0;0;-1;-1;-1
 12685832;K. Reddy;204;キース レディー;83;0;;False;False;False;False;0;0;0;-1;-1;-1
 12685885;Gwak Unbaek;16;カク ウンベク;85;0;;False;False;False;False;0;0;0;-1;-1;-1
 16777224;Alexandre Torreira da Gama Lima Casado;146;アレシャンドレ ガマ;100;0;;False;False;False;False;0;0;0;-1;-1;-1
@@ -1390,9 +1390,9 @@ Id;Name;Country;JapName;Adaptability;Photo;Photo_file;EditName;EditCountry;EditP
 8488766;Alexandre Dujeux;208;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
 8491125;B. Sellers;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
 8491903;G. Marquet;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
-8491738;C. Zubori;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+8491738;Chode Zubori;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
 8388836;Laurent Robert Blanc;208;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
-8491736;A. Hillman;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+8491736;Adrian Hillman;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
 8491018;William Still;197;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
 8489905;Main Hilario;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
 8489507;Pedro Miguel Marques 'Pepa' da Costa Filipe;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
@@ -1414,11 +1414,11 @@ Id;Name;Country;JapName;Adaptability;Photo;Photo_file;EditName;EditCountry;EditP
 100494;Daniel Walter Oldrá;144;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
 103140;S. Romero;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
 8491594;P. Savina;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
-8491765;V. Ainsworth;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+8491765;Vince Ainsworth;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
 8491918;W. Cresswell;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
-8491301;A. Hitchon;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+8491301;Adolph Hitchon;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
 8491107;D. Cauchy;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
-8491724;I. Harries;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+8491724;Iain Harries;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
 8491749;F. Veenstra;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
 8491729;A. Huisman;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
 8491730;C. Eliassen;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
@@ -1427,7 +1427,7 @@ Id;Name;Country;JapName;Adaptability;Photo;Photo_file;EditName;EditCountry;EditP
 8388902;Sabri Lamouchi;208;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
 8389109;Neil Warnock;204;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
 8490969;Liam James Rosenior;204;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
-8491369;P. Gems;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+8491369;Pelham Gems;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
 8489361;David Wagner;210;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
 8490869;Gareth Ainsworth;204;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
 8491859;M. Robjohn;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
@@ -1496,7 +1496,7 @@ Id;Name;Country;JapName;Adaptability;Photo;Photo_file;EditName;EditCountry;EditP
 8491775;N. Chamisso;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
 8491905;C. Kieffer;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
 8491025;Frédéric Bompard;208;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
-8489625;B. Gusmeroli;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+8489625;Blais Gusmeroli;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
 8491860;Hassan Shakeel;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
 8489457;Gustavo Álvarez;144;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
 8491907;Boris Amaya;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
@@ -1504,7 +1504,7 @@ Id;Name;Country;JapName;Adaptability;Photo;Photo_file;EditName;EditCountry;EditP
 8490671;Héctor Alfredo 'El Coio' Almandoz;144;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
 8490732;Pablo Daniel de Muner;144;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
 103208;Thongchai S.;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
-103118;P. Rorbru;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+103118;Patipat Rorbru;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
 103132;G. Magalhães;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
 1237;B. Wabeck;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
 103293;Douglas;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
@@ -1591,7 +1591,7 @@ Id;Name;Country;JapName;Adaptability;Photo;Photo_file;EditName;EditCountry;EditP
 8390991;O. Draper;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
 8491946;B. Hummel;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
 8390998;B. Stanev;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
-8491951;H. Blom;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+8491951;Haie Blom;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
 2450;V. Stoychev;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
 2459;I. Herrick;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
 101592;Thorsten Fink;210;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
@@ -1634,7 +1634,7 @@ Id;Name;Country;JapName;Adaptability;Photo;Photo_file;EditName;EditCountry;EditP
 8391069;K. van Vliet;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
 8488903;Oswald Tanchot;208;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
 8391024;Nader Mahbubur;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
-8491941;U. Kouchner;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+8491941;Ulbain Kouchner;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
 1329;G. Farrugia;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
 101546;Rasmus Bertelsen;203;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
 103336;O. Namazi;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
@@ -1649,7 +1649,7 @@ Id;Name;Country;JapName;Adaptability;Photo;Photo_file;EditName;EditCountry;EditP
 8391043;K. Beloselskiy;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
 8391040;E. Hatzidakis;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
 8391064;A. Partanen;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
-12685688;H. Woehr;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+12685688;Horst Woehr;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
 4295370;Domenico Tedesco;210;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
 12684398;Mladen Krstajić;303;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
 12683636;Temuri 'Temur' Ketsbaia;209;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
@@ -1664,7 +1664,7 @@ Id;Name;Country;JapName;Adaptability;Photo;Photo_file;EditName;EditCountry;EditP
 12683121;Michele Marcolini;215;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
 12683773;Miodrag Radulović;304;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
 4194654;Ronald Koeman;224;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
-12685588;Y. Tomash;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+12685588;Yordan Tomash;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
 12685795;C. Oprescu;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
 12684796;Matjaž Kek;235;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
 4297495;L. de la Fuente;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
@@ -1683,8 +1683,8 @@ Id;Name;Country;JapName;Adaptability;Photo;Photo_file;EditName;EditCountry;EditP
 101955;O. Özköylü;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
 102221;H. Eroğlu;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
 8491975;G. Burgoyne;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
-8491850;N. Teather;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
-8491235;L. Brambilla;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+8491850;Nichol Teather;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+8491235;Lam Brambilla;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
 8491468;O. Routledge;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
 8491573;Enric Loite;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
 8491591;Eduard Abril;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
@@ -1713,7 +1713,7 @@ Id;Name;Country;JapName;Adaptability;Photo;Photo_file;EditName;EditCountry;EditP
 12686107;Esteban Oreja;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
 12686113;Helvecio Lobato;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
 12685058;Aleksandar Ilić;303;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
-12686114;L. Hodge;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+12686114;Luther Hodge;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
 12583316;Jürgen Klinsmann;210;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
 8489488;Sérgio Agostinho de Oliveira Vieira;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
 8488780;José Albano Ferreira da Mota;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
@@ -1725,20 +1725,20 @@ Id;Name;Country;JapName;Adaptability;Photo;Photo_file;EditName;EditCountry;EditP
 12686115;J. Auteuil;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
 12683693;José Vítor dos Santos Peseiro;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
 12683146;Avraham 'Avram' Grant;189;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
-8389618;E. Kreso;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+8389618;Enver Kreso;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
 8488870;Alexander 'Alex' Pastoor;224;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
 8490191;Johannes Gerardus Adrianus 'John' Lammers;224;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
 8491716;N. Iversen;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
 8490247;Mark Peter Gertruda Andreas van Bommel;224;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
-8491039;L. Watteau;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
-8491651;P. Steiner;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+8491039;Louis Watteau;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+8491651;Piotr Steiner;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
 8489877;Felice Mazzù;197;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
 8491028;C. Lederer;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
 8490507;Wouter Vrancken;197;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
 8489252;Hein Vanhaezebrouck;197;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
 8491229;L. Flamand;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
 8490262;Marc Brys;197;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
-8491572;M. Varlet;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+8491572;Marius Varlet;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
 8491680;C. Moissan;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
 8491943;German Leiva;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
 8490200;Thorsten Fink;210;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
@@ -1761,7 +1761,7 @@ Id;Name;Country;JapName;Adaptability;Photo;Photo_file;EditName;EditCountry;EditP
 8489732;Cristóbal Parralo Aguilera;236;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
 103353;Tony Docherty;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
 102784;David Gray;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
-8488876;C. Richez;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+8488876;Calvin Richez;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
 8490187;Mathieu Chabert;208;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
 103224;A. Braizat;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
 103209;M. Schällibaum;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
@@ -1823,7 +1823,7 @@ Id;Name;Country;JapName;Adaptability;Photo;Photo_file;EditName;EditCountry;EditP
 102196;Rui Borges;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
 100172;José Albano Ferreira da Mota;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
 8489824;Glen De Boeck;197;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
-103363;A. Papastamatis;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+103363;Arthur Papas;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
 103373;R. Suewaja;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
 101598;Alessandro Nesta;215;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
 100921;Stefano Vecchi;215;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
@@ -1856,11 +1856,11 @@ Id;Name;Country;JapName;Adaptability;Photo;Photo_file;EditName;EditCountry;EditP
 4295516;Michal Probierz;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
 8490588;Alexander Jesús Medina Reobasco;152;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
 8492070;H. Joubert;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
-8389736;G. Matthes;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+8389736;Gert Matthes;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
 8388768;Facundo Sava;144;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
 8490712;Israel Alejandro Damonte;144;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
 8491380;Adria Jauregui;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
-8491467;B. Edgar;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+8491467;Barnard Edgar;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
 8490645;Adam Nicholas Barrett;204;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
 8491019;Martí Cifuentes Corvillo;236;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
 8492066;E. Parr;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
@@ -1948,8 +1948,8 @@ Id;Name;Country;JapName;Adaptability;Photo;Photo_file;EditName;EditCountry;EditP
 101401;Gustavo Lema;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
 8492082;Salvador Valle;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
 103256;Nutthawut V.;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
-8491033;A. Flender;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
-12686404;H. Mitev;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+8491033;Arno Flender;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+12686404;Hristofor Mitev;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
 4295075;Luciano Spalletti;215;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
 12584129;D. Perko;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
 4194333;Vincenzo Montella;215;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
@@ -1966,9 +1966,9 @@ Id;Name;Country;JapName;Adaptability;Photo;Photo_file;EditName;EditCountry;EditP
 8489429;André Breitenreiter;210;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
 8488832;Neil Harris;204;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
 8492092;E. Newey;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
-8492020;A. Ludendorff;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
-8492097;K. Blackford;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
-8492138;F. Algren;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+8492020;Andy Ludendorff;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+8492097;Kirk Blackford;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+8492138;Felix Algren;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
 8492147;Galo Limones;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
 8492045;Xavi Esquivel;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
 8492103;Gene Milan;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
@@ -1978,7 +1978,7 @@ Id;Name;Country;JapName;Adaptability;Photo;Photo_file;EditName;EditCountry;EditP
 8489698;José Mauricio Larriera Dibarboure;152;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
 8491629;Endika Moncada;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
 8490522;Lolo Terra;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
-8389834;P. Kvint;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+8389834;Peder Kvint;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
 100278;Fernando Manuel Fernandes da Costa Santos;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
 103105;Selçuk İnan;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
 103501;F. Omerović;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
@@ -1990,14 +1990,14 @@ Id;Name;Country;JapName;Adaptability;Photo;Photo_file;EditName;EditCountry;EditP
 8492051;S. Olney;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
 103487;Ricardo Paiva;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
 103532;Alexandre S.;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
-8492145;L. Oldham;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
-8492125;A. Mouglalis;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+8492145;Liam Oldham;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+8492125;Arsè Mouglalis;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
 8490951;Sandro Schwarz;210;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
 8491528;K. Reddy;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
 8491678;Isidoro Padin;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
 8489185;Iker Fajer;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
 8389032;Víctor Fernández Braulio;236;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
-8492111;J. Bernadis;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+8492111;Jean A.Bernadis;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
 8492088;G. Kramer;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
 101035;Massimo Carrera;215;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
 103483;O. Roberts;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
@@ -2082,26 +2082,26 @@ Id;Name;Country;JapName;Adaptability;Photo;Photo_file;EditName;EditCountry;EditP
 12686524;G. Deyn;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
 12583401;Valeriy Georgievich Karpin;230;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
 12684369;Dragan 'Piksi' Stojković;303;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
-12686105;E. Dusio;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
-12685890;P. Brahe;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+12686105;Edmondo Dusio;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+12685890;Peder Brahe;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
 12683569;Serhiy Stanislavovych Rebrov;239;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
-8492205;D. Scheibe;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+8492205;David Scheibe;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
 8492059;Juanjo Dueñas;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
-8491650;A. Capelli;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+8491650;Amerigo Capelli;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
 8491672;E. Cooke;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
-8491398;D. Bragaglia;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
-8489864;W. Borsche;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+8491398;Dani Bragaglia;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+8489864;Wendel Borsche;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
 102080;Hans-Dieter Flick;210;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
 12686496;Mikel Elia;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
 12686499;Pau Carpintero;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
 12686498;J. Irons;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
-12686502;R. Pintscher;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
-12686501;E. Camoranesi;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
-12686497;R. Morita;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+12686502;Ralf Pintscher;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+12686501;Eva Camoranesi;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+12686497;Rui Morita;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
 8492239;J. Ludwig;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
-8491750;N. Samuelsen;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+8491750;Nyurp Samuelsen;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
 8491503;A. Routledge;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
-8492170;R. Girtin;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+8492170;Rory Girtin;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
 8489310;Gustavo Adolfo Munúa Vera;152;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
 8491331;Vivar Ocaña;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
 8492121;Lucas Grandal;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
@@ -2110,8 +2110,8 @@ Id;Name;Country;JapName;Adaptability;Photo;Photo_file;EditName;EditCountry;EditP
 8492159;Carlos Urbano;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
 8492021;R. Sanders;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
 8490632;Brian Priske Pedersen;203;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
-8492224;J. Willemsen;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
-8492202;O. Verhoeven;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+8492224;Joep Willemsen;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+8492202;Ot Verhoeven;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
 8489854;Peter Maes;197;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
 102974;M. Valkanis;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
 103104;Alex;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
@@ -2122,7 +2122,7 @@ Id;Name;Country;JapName;Adaptability;Photo;Photo_file;EditName;EditCountry;EditP
 102229;İsmet Taşdemir;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
 8492201;O. Keller;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
 8492200;U. Buffet;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
-8492225;Z. Savage;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+8492225;Zat Savage;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
 8492207;L. Stanley;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
 8492231;A. Paterson;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
 103676;Antonio Calabro;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
@@ -2164,9 +2164,9 @@ Id;Name;Country;JapName;Adaptability;Photo;Photo_file;EditName;EditCountry;EditP
 101399;Kosaku Masuda;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
 103618;Shinji Otsuka;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
 12583053;Vladimir Petković;198;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
-12686522;P. Dyrek;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+12686522;Patrice Dyrek;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
 12684566;Marc Brys;197;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
-12686520;É. Todt;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+12686520;Émilien Todt;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
 12582959;Hossam Hassan Hussein;58;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
 12685083;Engin Fırat;190;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
 12686523;I. Oldham;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
@@ -2176,10 +2176,10 @@ Id;Name;Country;JapName;Adaptability;Photo;Photo_file;EditName;EditCountry;EditP
 8490945;Victor Fuentes;147;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
 8491349;Jon Santana;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
 8492245;Mikel Colsa;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
-8490793;J. Loit;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
-8492228;E. Gourvest;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
-8491394;A. Cote;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
-8492169;R. de Bruin;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+8490793;Jamale Loit;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+8492228;Edmond Gourvest;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+8491394;Adolf Cote;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+8492169;Ronand de Bruin;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
 103662;Jordan Stewart;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
 103560;Gavin Glinton;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
 103576;Danny Stone;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
@@ -2196,9 +2196,9 @@ Id;Name;Country;JapName;Adaptability;Photo;Photo_file;EditName;EditCountry;EditP
 8489922;Fabio Celestini;238;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
 8490558;Patrick Rahmen;238;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
 8490167;Ludovic Magnin;238;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
-8491262;B. Streit;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+8491262;Benjamin Streit;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
 8490845;Mario Frick;218;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
-8492211;D. Ruthenfranz;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+8492211;Dag Ruthenfranz;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
 8490458;Thomas Häberli;238;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
 8492230;D. Vukčić;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
 8491549;C. Dammeier;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
@@ -2206,27 +2206,27 @@ Id;Name;Country;JapName;Adaptability;Photo;Photo_file;EditName;EditCountry;EditP
 8488861;Ricardo Aloysius Frederik Moniz;224;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
 8492240;M. Heuzenroeder;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
 8388848;Sylvain Ripoll;208;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
-8491825;L. Holgado;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
-8492191;E. Lipietz;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
-8492206;C. Kuijpers;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+8491825;Louis Holgado;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+8492191;Ernest Lipietz;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+8492206;Chiel Kuijpers;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
 8388783;Uwe Rösler;210;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
-8491725;O. Kristiansen;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
-8489919;F. Rubin;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
-8490866;P. Rasch;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
-8491867;J. Buhl;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+8491725;Ott Kristiansen;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+8489919;Frederik Rubin;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+8490866;Paul Rasch;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+8491867;Jacob Buhl;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
 8489899;Thomas Thomasberg;203;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
-8492236;A. Sparre;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+8492236;Arnold Sparre;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
 8490154;Rasmus Bertelsen;203;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
 8388930;Kent Nielsen;203;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
 8491453;B. Juriša;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
-8492058;N. Ancher;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+8492058;Niels Ancher;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
 101317;Jimmy Thelin;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
 100658;Osmar Loss Vieira;146;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
 103678;Srđan Trailović;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
 101183;Gino Lettieri;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
 103581;A. Chalitaporn;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
 101637;Miloš Joksić;303;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
-12685406;F. Kenney;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+12685406;Fraizer Kenney;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
 8492164;Bang Donghwi;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
 8388612;Hwang Sun-hong;16;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
 8492265;Jun Insu;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
@@ -2242,3 +2242,153 @@ Id;Name;Country;JapName;Adaptability;Photo;Photo_file;EditName;EditCountry;EditP
 8390907;Mateo Clemente;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
 8391180;L. Nutley;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
 8391086;A. Mayerl;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+12683190;Fernando Manuel Fernandes da Costa Santos;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+12686669;G. Vassiliadis;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+12686020;Nyurp Iversen;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+4295415;Lee Kevin Carsley;214;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+12685091;Ivan Jovanović;303;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+12686665;Virginio Togni;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+12583031;Mircea Lucescu;229;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+12686664;Gamaliel Nutt;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+8389096;Diego Martín Cocca;144;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+8491677;Ansel Iemmello;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+8489926;C. Drachmann;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+8492171;Omer Beaulieu;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+8491848;Anat Spiesser;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+8492094;Bojan Coronado;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+8492390;Jorge Pitaruga;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+8492348;Javier Robredo;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+8492389;Juanjo Benito;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+8492413;Armando Buendia;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+8488968;Andrés Roberto Yllana;144;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+8489280;Ariel Enrique Holan;144;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+8492341;Txomin Donostia;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+8492323;Abel Galdeano;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+513;Óscar García Junyent;236;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+8492343;Oleguer Alarza;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+8389663;Lucas Riesgo;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+8489372;Beñat San José Gil;236;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+8388831;Manuel Eduardo Berizzo Magnolo;144;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+8491511;Damia Aragon;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+8491733;Valentin Giner;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+8389023;Guillermo Jorge Almada Alves;152;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+8389659;Blas Valentino;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+8491616;Fausto Cervian;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+12686668;Simon Blanco;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+12683639;Sebastián Andrés Beccacece;144;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+12686662;C. Hartson;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+12685205;Sébastien Serge Louis Desabre;208;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+12686660;Adrien Raguel;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+12583008;Michel Dussuyer;208;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+12686571;Adrian Maynard;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+12685937;Anton Darmon;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+12686659;Faris Al Wadud;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+12686661;Lucas Renk;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+12683100;Vinícius Soares Eutrópio;146;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+12686667;Riku Nakane;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+12683350;Ashley Michael Westwood;204;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+12684000;Manuel 'Manolo' Márquez Roca;236;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+54627448;Shin Tae-yong;16;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+54525990;Ardeshir 'Amir ' Ghalenoei;11;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+54629147;Jesús Casas;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+54629632;Jamal Sellami;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+54629442;Sin Yong-Nam;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+54526296;Hong Myung-bo;16;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+54526033;Juan Antonio Pizzi Torroja;236;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+12686666;Chu Jeongsik;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+63015421;Miodrag Radulović;304;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+4298062;Pau Martí;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+54626994;Jaroslav Šilhavý;202;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+12685939;Fele Pineda;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+54627137;Tintín Márquez;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+54526075;Roberto Mancini;215;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+4295265;Masatada Ishii;13;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+12686572;Felipe Rivas;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+54526292;Srečko Katanec;235;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+63017086;Dam Ilmong;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+103804;M. Avcı;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+103787;Murat Şahin;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+103803;S. Jakirović;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+1197;Jamie Blackmore;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+8492293;Hal McPhee;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+8492398;William Acland;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+103809;Gil Andrade;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+103687;Zé Augusto;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+103766;Hugo Oliveira;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+103554;Tozé Marreco;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+8490429;Gregg Berhalter;135;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+8491935;Sean Roxburgh;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+8492367;Fonsi Nagore;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+8492392;Yngve Thern;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+103779;Daisuke Kimori;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+103800;Steve Holland;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+8389782;Krystiyan Šakić;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+8389790;Bogomil Kirov;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+101945;A. Dal Canto;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+103725;Paolo Mandelli;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+100308;Leonardo Semplici;215;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+16777529;Pedro Rui da Mota Vieira Martins;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+16777588;Stefano Pioli;215;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+16879981;Poya Asbaghi;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+16878705;Félix Sánchez Bas;236;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+16880913;Moamen Soliman;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+16880869;Miloš Milojević;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+16879853;M. Jaissle;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+16877874;Osmar Loss Vieira;146;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+16880857;Mark Jackson;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+16878680;Park Tae-Ha;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+16880613;Lee Jung-Hyo;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+16878980;Héctor Pablo Bidoglio;144;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+16879081;Juan Carlos Garrido Fernández;236;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+16777442;Leonid Viktorovich Slutsky;230;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+16880189;Kim Pan-Gon;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+16878644;Takayuki Yoshida;13;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+16880059;John Hutchinson;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+8492290;Bart Mormeck;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+8492371;T. Rosenhain;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+8492404;Franjo Prelog;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+8489727;Yves Vanderhaeghe;197;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+8388878;Christopher 'Chris' Patrick Coleman;241;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+103810;Keiji Kuraishi;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+103080;M. Otagiri;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+101383;Tetsu Nagasawa;13;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+8492403;Florens Bosman;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+8489657;Alejandro Menéndez García;236;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+8492326;Jesus Colomo;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+8492318;Oscar Debla;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+8491343;Unai More;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+8491947;Emidio Zanardi;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+8490135;Juan Carlos Álvarez Cárdenas;148;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+8492388;Jarabe Rogel;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+8492338;Donato Almunia;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+8489941;Ismael Rescalvo Sánchez;236;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+8491201;Guus Koning;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+103711;Marcello Alves;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+1059;Eladio Cornago;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+1041;Manjarin Palop;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+1040;Carles Abian;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+8492383;G. Beaumesnil;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+8492407;Eryck Cuvillier;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+8492400;Egide Schlesser;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+8492381;Romildo Franco;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+102218;Neil Critchley;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+103807;Stephen Frail;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+101375;Simo Valakari;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+8492396;Pierre Arberti;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+8492330;Pung Cheolgyu;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+8492386;Geum Harong;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+8388829;Gustavo Augusto 'Gus' Poyet Domínguez;152;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+103789;S. Komsilp;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+101813;Sirisak Yodyardthai;36;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+102047;Choketawee Promrut;36;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+101626;Jukkapant Punpee;36;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+103791;Wilson d.Santos;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+8489865;Giorgio Contini;238;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+8489826;Ulrich 'Uli' Massimo Forte;238;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+8490723;Paolo Tramezzani;215;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+8492352;Silvester Golz;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+12683585;Claudio Alejandro Vivas;144;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+12684367;Josetxo Alkorta;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+12683153;Stephen 'Steve' McClaren;204;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+12582980;Javier 'El Vasco' Aguirre Onaindía;124;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+12583004;Mauricio Roberto Pochettino Trossero;144;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
