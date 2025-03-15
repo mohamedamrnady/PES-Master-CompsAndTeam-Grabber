@@ -431,7 +431,7 @@ Id;Name;Country;JapName;Adaptability;Photo;Photo_file;EditName;EditCountry;EditP
 102703;H. Watling;204;ハリー ワトリング;85;0;;False;False;False;False;0;0;0;-1;-1;-1
 102704;Tom Soehn;135;トム ソエン;70;0;;False;False;False;False;0;0;0;-1;-1;-1
 102706;M. Lowry;204;マーク ロウリー;105;0;;False;False;False;False;0;0;0;-1;-1;-1
-102708;N. Collins;232;ニール コリンズ;71;0;;False;False;False;False;0;0;0;-1;-1;-1
+102708;Neill Collins;232;ニール コリンズ;71;0;;False;False;False;False;0;0;0;-1;-1;-1
 102709;M. Rennie;232;マーティン レニー;71;0;;False;False;False;False;0;0;0;-1;-1;-1
 102711;L. Donovan;135;ランドン ドノヴァン;74;0;;False;False;False;False;0;0;0;-1;-1;-1
 102712;Wílmer Cabrera;148;ウィルメル カブレラ;80;0;;False;False;False;False;0;0;0;-1;-1;-1
@@ -1746,7 +1746,7 @@ Id;Name;Country;JapName;Adaptability;Photo;Photo_file;EditName;EditCountry;EditP
 103366;R. Carbajal;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
 8488937;Vincenzo Vivarini;215;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
 8489667;B. Rossi Stuart;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
-103342;P. Bianco;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+103342;Paolo Bianco;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
 103346;A. Aquilani;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
 8392638;A. Materazzi;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
 8490206;Alessandro Nesta;215;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
@@ -1865,7 +1865,7 @@ Id;Name;Country;JapName;Adaptability;Photo;Photo_file;EditName;EditCountry;EditP
 8491019;Martí Cifuentes Corvillo;236;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
 8492066;E. Parr;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
 8491487;S. Forlani;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
-8492077;K. Fulford;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+8492077;Keaton Fulford;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
 8389805;R. Forester;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
 8389803;H. Leconte;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
 103464;S. Damla;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
@@ -2392,3 +2392,26 @@ Id;Name;Country;JapName;Adaptability;Photo;Photo_file;EditName;EditCountry;EditP
 12683153;Stephen 'Steve' McClaren;204;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
 12582980;Javier 'El Vasco' Aguirre Onaindía;124;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
 12583004;Mauricio Roberto Pochettino Trossero;144;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+8491866;Sergio Pradera;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+8492425;Grigore Breban;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+8491259;Alfonso Errando;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+8492428;Ivan Torrentes;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+102834;Rui Ferreira;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+254;José Carlos 'Lito' Fernandes Vidigal;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+101168;José Manuel Ferreira de Morais;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+8492426;Lau Peters;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+103827;P. Tortelli;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+8492436;Gaston Campano;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+8489111;Aníbal Fabián Biggeri;144;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+8492430;Marc Begirstain;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+8492429;Julian Crusat;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+8489403;Bernd Storck;210;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+8492419;Peter Finsen;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+103765;Luke Spencer;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+103802;Gastón Maddoni;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+103739;Pa-Modou Kah;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+102747;Carlos Llamosa;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+103816;Michael Wimmer;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+103826;Barry Ferguson;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+100370;Anthony Patrick Hudson;204;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
+103812;Wasapol K.;228;;100;0;;False;False;False;False;0;0;0;-1;-1;-1
