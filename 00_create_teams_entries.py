@@ -84,9 +84,6 @@ for league_count, league_id22 in enumerate(league_info_scrapper(game_page, "id")
             for team in whitelist:
                 if team in url:
                     teams_urls.append(url)
-        asian_national = True
-    else:
-    #     asian_national = False
 
     # Its clean now
     asian_national = False
