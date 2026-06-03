@@ -17,4 +17,5 @@ def get_page(url):
         else:
             print(f"Failed to get page {url} after 5 attempts, skipping.")
             return None
+    FAILED_ATTEMPTS = 0
     return r
