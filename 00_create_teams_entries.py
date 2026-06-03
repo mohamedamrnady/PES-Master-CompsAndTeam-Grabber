@@ -75,8 +75,19 @@ for league_count, league_id22 in enumerate(league_info_scrapper(game_page, "id")
     #             teams_urls.remove(url)
     #     asian_national = True
     # else:
+    if int(league_id22) == 204:
+        # Empty other eurpean teams
+        whitelist = ["bayer-04-leverkusen", "eintracht-frankfurt", "borussia-dortmund"]
+        tempo = teams_urls
+        teams_urls = []
+        for url in tempo:
+            for team in whitelist:
+                if team in url:
+                    teams_urls.append(url)
+        asian_national = True
+    else:
     #     asian_national = False
-    
+
     # Its clean now
     asian_national = False
     for team_url in teams_urls:
