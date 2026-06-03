@@ -63,19 +63,22 @@ for league_count, league_id22 in enumerate(league_info_scrapper(game_page, "id")
             entryids_counter += 1
     # Get every team data in league and append to "LIST"
     teams_urls = teams_urls_scrapper(get_page(leagues_urls[league_count]))
-    if int(league_id22) == 0:
-        # Generic teams in with the same name needs to be checked
-        tempo = teams_urls
-        for url in tempo:
-            if "pes-united" in url:
-                teams_urls.remove(url)
-            elif "efb-united" in url:
-                teams_urls.remove(url)
-            elif "we-united" in url:
-                teams_urls.remove(url)
-        asian_national = True
-    else:
-        asian_national = False
+    # if int(league_id22) == 0:
+    #     # Generic teams in with the same name needs to be checked
+    #     tempo = teams_urls
+    #     for url in tempo:
+    #         if "pes-united" in url:
+    #             teams_urls.remove(url)
+    #         elif "efb-united" in url:
+    #             teams_urls.remove(url)
+    #         elif "we-united" in url:
+    #             teams_urls.remove(url)
+    #     asian_national = True
+    # else:
+    #     asian_national = False
+    
+    # Its clean now
+    asian_national = False
     for team_url in teams_urls:
         print()
         team_page = get_page(team_url)
